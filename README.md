@@ -1,5 +1,5 @@
 # Yelpcamp-Website
-This is first website created using Node.js, Express and MongoDb!
+This is first website created by me with help of Node.js, Express and MongoDb!
 
 Its a very simple website, where user can register and upload new campgrounds so that people can view and visit!
 We even have ratings for campgrounds
