@@ -7,4 +7,4 @@ The special feature is campground can be deleted only by user created it,and so 
 it also has Mapbox to view campground locaions on Map
 
 
-It not that great but implements all basic works like authentication, authorization, hashing and saving the password of user, uploading images, view locations on Mapboxetc.
+It not that great but implements all basic works like authentication, authorization, hashing and saving the password of user, uploading images, view locations on Mapbox etc.
