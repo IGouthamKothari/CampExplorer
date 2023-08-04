@@ -53,12 +53,11 @@ Yelpcamp Website is a web application that allows users to explore, review, and 
 
 ## License
 
-This project is licensed under the terms of the [LICENSE] file.
+This project is licensed under the terms of the [LICENSE](LISENCE) file.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md] for details on our code of conduct and the process for submitting pull requests.
-
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 ## Acknowledgments
 
 - Special thanks to the community and everyone who contributed to this project.
