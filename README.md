@@ -1,6 +1,6 @@
-# Yelpcamp Website
+# CampExplorer 
 
-Yelpcamp Website is a web application that allows users to explore, review, and share campgrounds. Built with Node.js, Express, MongoDB, and other modern technologies, it provides a platform for camping enthusiasts to connect and share their experiences.
+CampExplorer is a web application that allows users to explore, review, and share campgrounds. Built with Node.js, Express, MongoDB, and other modern technologies, it provides a platform for camping enthusiasts to connect and share their experiences.
 
 ## Features
 
@@ -31,12 +31,12 @@ Yelpcamp Website is a web application that allows users to explore, review, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IGouthamKothari/Yelpcamp-Website.git
+   git clone https://github.com/IGouthamKothari/CampExplorer.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Yelpcamp-Website
+   cd CampExplorer
    ```
 
 3. Install the dependencies:
