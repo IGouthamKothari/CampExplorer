@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #cluster-map {
     width: 100%;
     height: 500px;
@@ -6,4 +7,14 @@
 #map {
     width: 100%;
     height: 300px;
+=======
+#cluster-map {
+    width: 100%;
+    height: 500px;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+>>>>>>> 5074ef82788c70e0a5df2d5c4b8b7fc481ce8159
 }
